@@ -1,0 +1,4 @@
+[
+    {"id": 1001, "name": "Alice", "amount": 250.5, "status": "Completed"},
+    {"id": 1002, "name": "Bob", "amount": 120.0, "status": "Pending"}
+]
